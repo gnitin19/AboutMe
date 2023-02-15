@@ -1,0 +1,101 @@
+.top{
+    background-color: #E4F9F5;
+    padding-top: 5%;
+    padding-bottom: 200px;
+    margin-bottom: 0px;
+}
+.middle
+{
+}
+.bottom{
+    padding-bottom: 100px;
+    border-top-width: 100px;
+    padding-top: 100px;
+}
+body{
+    text-align: center;
+    line-height: 2;
+}
+h1{
+    margin: 0;
+    font-family: cursive;
+}
+h3{
+    font-family: cursive;
+    color: #11999E;
+}
+.bottomCloud
+{
+    position: absolute;
+}
+.topCloud
+{
+    margin: 0 0 0 30%;
+}
+.rightCloud{
+    position: absolute;
+    top: 100px;
+    right: 300px;
+}
+p
+{
+    font-family: cursive;
+}
+.skillsImg{
+    float: right;
+    position: relative;
+    right: 100px;
+    bottom: 30px;
+}
+.intropara{
+    text-align: left;
+    margin: auto;
+    width: 40%;
+}
+.dancepara{
+    text-align: left;
+    margin: auto;
+    width: 40%;
+}
+.danceImg{
+    float: left;
+    bottom: 30px;
+    left: 100px;
+    position: relative;
+}
+.skillspara{
+    text-align: left;
+    margin: auto;
+    width: 40%;
+}
+hr{
+    border-style: dotted none none;
+    background-color: white;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h2{
+    color: #11999E;
+    font-family: cursive;
+}
+.dance{
+    height: 20%;
+}
+.contactMeDiv{
+    background-color: aqua;
+    text-align: center;
+    margin-bottom: 0%;
+    padding-bottom: 100px;
+}
+.heading{
+    position: relative;
+    top: 10px;
+    right: 100px;
+}
+.contactlink{
+    text-align: center;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
